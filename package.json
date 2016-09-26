@@ -1,10 +1,10 @@
 {
-  "name": "kuzzle-plugin-document-date-fields",
+  "name": "kuzzle-plugin-evaluate-fields",
   "version": "1.0.0",
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Filsh/kuzzle-plugin-document-date-fields.git"
+    "url": "git+https://github.com/Filsh/kuzzle-plugin-evaluate-fields.git"
   },
   "keywords": [
     "kuzzle",
