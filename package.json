@@ -1,7 +1,7 @@
 {
   "name": "kuzzle-plugin-document-date-fields",
   "version": "1.0.0",
-  "main": "./lib/index.js"
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Filsh/kuzzle-plugin-document-date-fields.git"
