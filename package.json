@@ -1,0 +1,5 @@
+{
+  "name": "kuzzle-plugin-document-date-fields",
+  "version": "1.0.0",
+  "main": "./lib/index.js"
+}
