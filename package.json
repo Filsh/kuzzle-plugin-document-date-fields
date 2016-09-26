@@ -11,10 +11,14 @@
     "plugin"
   ],
   "pluginInfo": {
-    "defaultConfig": {
-    }
+    "defaultConfig": {}
   },
   "license": "Apache-2.0",
   "dependencies": {
-  }
+    "safe-eval": "^0.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Filsh/kuzzle-plugin-evaluate-fields/issues"
+  },
+  "homepage": "https://github.com/Filsh/kuzzle-plugin-evaluate-fields#readme"
 }
