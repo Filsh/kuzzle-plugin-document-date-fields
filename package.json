@@ -2,4 +2,19 @@
   "name": "kuzzle-plugin-document-date-fields",
   "version": "1.0.0",
   "main": "./lib/index.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filsh/kuzzle-plugin-document-date-fields.git"
+  },
+  "keywords": [
+    "kuzzle",
+    "plugin"
+  ],
+  "pluginInfo": {
+    "defaultConfig": {
+    }
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+  }
 }
