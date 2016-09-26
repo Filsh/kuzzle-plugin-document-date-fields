@@ -1,8 +1,8 @@
 ## Installation
 
 ```sh
-/var/app/bin/kuzzle plugins --install --gitUrl https://github.com/Filsh/kuzzle-plugin-auth-passport-oauth.git#persist_map kuzzle-plugin-auth-passport-oauth
-/var/app/bin/kuzzle plugins --importConfig /plugins/kuzzle-plugin-auth-passport-oauth/config.json kuzzle-plugin-auth-passport-oauth
+/var/app/bin/kuzzle plugins --install --gitUrl https://github.com/Filsh/kuzzle-plugin-evaluate-fields.git kuzzle-plugin-evaluate-fields
+/var/app/bin/kuzzle plugins --importConfig /plugins/kuzzle-plugin-evaluate-fields/config.json kuzzle-plugin-evaluate-fields
 ```
 
 ## Example config.json
